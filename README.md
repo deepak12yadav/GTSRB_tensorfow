@@ -16,3 +16,6 @@ Reference::https://github.com/tensorflow/tensorflow/tree/master/tensorflow/model
 
 A new file readTrafficSigns.py file is made to convert the GTSRB dataset into the cifar10 format so that the code can be used 
 small changes are made in cifar10 code and the model is changed as per convinience .
+
+Run cifar_train.py for training
+After running cifar_train.py run cifar10_eval.py from the same address.
