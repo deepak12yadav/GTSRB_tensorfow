@@ -9,7 +9,7 @@ Evaluation dataset:9209
 
 
 
-Model used :http://people.idsia.ch/~juergen/nn2012traffic.pdf (MCDNN)
+Model Reference :http://people.idsia.ch/~juergen/nn2012traffic.pdf (MCDNN)
 
 Code used ::cifar10 code available in tendorflow example (just for the educational purpose )
 Reference::https://github.com/tensorflow/tensorflow/tree/master/tensorflow/models/image/cifar10
